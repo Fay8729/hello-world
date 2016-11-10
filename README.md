@@ -1,2 +1,4 @@
 # hello-world
-This is my first github, I will try my coding practice here
+This is my first github
+Just Try my Java practice here
+LOL
